@@ -1,7 +1,7 @@
 # Introduction
 
-I am a french game developper currently studying at Isart Digital
+I am a french junior game developper
 
 I'm interested in computer science and low level programming
 
-[Here](https://meisterlama.github.io/) is my blog
+[Here](https://blog.meisterlama.fr) is my blog
